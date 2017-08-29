@@ -1,0 +1,7 @@
+The types of data you may encounter in pharmacy included:
+-Insurance Data
+-Patient Drug History
+-Drug Cost Data
+-Dispensing Data
+-Drug Compliance Data
+
